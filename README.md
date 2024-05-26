@@ -989,8 +989,5 @@ Where host is the name of extractor (eg. instagram, Twitch). Multiple accounts o
 |[`SilentDemonSD`](https://github.com/SilentDemonSD)|[`CodeWithWeeb`](https://github.com/weebzone)|[`Maverick`](https://github.com/MajnuRangeela)|
 |Author and DDL, UI Design, More Customs..|Author and Wraps Up Features|Co-Author & Bug Tester|
 
-
-Hk colab tool 
-https://colab.research.google.com/drive/1aIvFZmbKaTGNcTGCo1f35DO-CMhG_Jd3
 </details>
 
